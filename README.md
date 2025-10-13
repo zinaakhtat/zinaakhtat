@@ -3,24 +3,42 @@
 </p>
 
 <br/>
-
 <div align="center">
 <pre>
 ══════════════════════════════════════════════════════════════════════════════════════
      Full-Stack Developer   |  Modern Design Lover |   DevOps & Automation Explorer
 ══════════════════════════════════════════════════════════════════════════════════════
 </pre>
+  <p>
+    <a href="mailto:zainaakhtat@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/zina4a84b0/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/zinaakhtat">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
-<br/>
+
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   A little more about me...
 </h3>
+<br/>
 
-<img align="right" src="assets\coder1.gif" width="230">
+<img align="right" src="assets\coder1.gif" width="230" height="300">
 
-> 💻 Je suis une étudiante passionnée par le développement **Full-Stack**.  
-> 🚀 Technologies : React, Spring Boot, SQL, Docker  
-> 🎯 Objectif : Trouver un stage de fin d’étude dans le développement web.
+> 🎓 I’m a final-year Computer Engineering student specializing in Full-Stack Development
+
+> 🎯 Actively seeking a final-year internship in Full-Stack Web Development
+
+> 🌱 Currently exploring the world of DevOps and automation to strengthen my development workflow
+
+> 💡 Passionate about building secure, high-performance, and user-friendly web applications
+
+> 🎨 I also love modern UI/UX design and strive to create visually appealing interfaces
+
