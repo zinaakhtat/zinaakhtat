@@ -10,7 +10,7 @@
 ══════════════════════════════════════════════════════════════════════════════════════
 </pre>
   <p>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainaakhtat@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainaakhtat@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/zina4a84b0/" target="_blank">
