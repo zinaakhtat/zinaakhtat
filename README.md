@@ -11,3 +11,33 @@
 ══════════════════════════════════════════════════════════════════════════════════════
 </pre>
 </div>
+
+<br/>
+<table>
+  <tr>
+    <td>
+
+<pre>
+<code class="language-javascript">
+const fullStackDev = {
+  name: "Za Tat",
+  role: "🚀 Full-Stack Developer",
+  location: "🇲🇦 Morocco",
+  skills: {
+    languages: ["JavaScript 🟨", "Java ☕", "C# 💻", "SQL 🗄️", "HTML ✨", "CSS 🎨"],
+    frameworks: ["React ⚛️", "Spring Boot 🌱", "JEE ☁️", "Node.js 🟩"]
+  },
+  databases: ["MySQL 🐬", "MongoDB 🍃", "Oracle 🔷"],
+  interests: ["Security 🔒", "Modern Design 🎨", "DevOps ⚙️", "Automation 🤖", "CI/CD 🛠️"],
+  currentFocus: "Learning DevOps & Deployment 🚀",
+  funFact: "I can write code without coffee… but barely! ☕😂"
+};
+</code>
+</pre>
+
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/3o7aCV0dJ9wGv3OQVy/giphy.gif" width="400"/>
+    </td>
+  </tr>
+</table>
