@@ -7,38 +7,32 @@
 <div align="center">
 <pre>
 ══════════════════════════════════════════════════════════════════════════════════════
-  🚀 Full-Stack Developer | 🎨 Modern Design Lover | ⚙️ DevOps & Automation Explorer
+     Full-Stack Developer   |  Modern Design Lover |   DevOps & Automation Explorer
 ══════════════════════════════════════════════════════════════════════════════════════
 </pre>
 </div>
 
 <br/>
-<table>
-  <tr>
-    <td>
 
-<pre>
-<code class="language-javascript">
-const fullStackDev = {
-  name: "Za Tat",
-  role: "🚀 Full-Stack Developer",
-  location: "🇲🇦 Morocco",
-  skills: {
-    languages: ["JavaScript 🟨", "Java ☕", "C# 💻", "SQL 🗄️", "HTML ✨", "CSS 🎨"],
-    frameworks: ["React ⚛️", "Spring Boot 🌱", "JEE ☁️", "Node.js 🟩"]
-  },
-  databases: ["MySQL 🐬", "MongoDB 🍃", "Oracle 🔷"],
-  interests: ["Security 🔒", "Modern Design 🎨", "DevOps ⚙️", "Automation 🤖", "CI/CD 🛠️"],
-  currentFocus: "Learning DevOps & Deployment 🚀",
-  funFact: "I can write code without coffee… but barely! ☕😂"
-};
-</code>
-</pre>
 
-    </td>
-    <td>
-      <img src="assets/coder.gif width="400"/>
-    </td>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  A little more about me...
+</h3>
 
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+
+>💻 Je suis une étudiante passionnée par le développement **Full-Stack**.  
+>🚀 Technologies : React, Spring Boot, SQL, Docker  
+>🎯 Objectif : Trouver un stage de fin d’étude dans le développement web.
+
+
+
+
+
+
+
+
+
+
