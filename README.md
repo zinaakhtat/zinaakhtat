@@ -37,7 +37,7 @@ const fullStackDev = {
 
     </td>
     <td>
-      <img src="assets\coder.gif" width="400"/>
+      <img src="assets/coder.gif width="400"/>
     </td>
 
   </tr>
