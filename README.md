@@ -77,9 +77,9 @@ My Technical Arsenal</h3>
 
   <div align="center">
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zinaakhtat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=30363D" alt="Za Tat's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zinaakhtat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=30363D&v=3" alt="Za Tat's GitHub Stats"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinaakhtat&layout=compact&theme=radical&border_radius=20&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=30363D&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinaakhtat&layout=compact&theme=radical&border_radius=20&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=30363D&langs_count=8&v=2" alt="Top Languages"/>
 
   <!-- Streak Stats -->
   <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=zinaakhtat&theme=radical&border_radius=20&background=0D1117&stroke=30363D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
